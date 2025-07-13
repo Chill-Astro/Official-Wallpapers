@@ -1,4 +1,4 @@
-# Official Wallpapers from Chill-Astro Software!
+## Official Wallpapers from Chill-Astro Software!
 
 ---
 
@@ -18,6 +18,8 @@
 
 - [SVG REPO](https://www.svgrepo.com/) : For Satellite and Earth SVGs.
 - [Canva](https://canva.com) : Design software used.
+
+---
 
 ## Note from Developer :
 
